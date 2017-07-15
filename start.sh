@@ -1,0 +1,1 @@
+nohup ./vsproxy >> vsproxy.log 2>&1 &
